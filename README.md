@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+This is a demo project I created for our company’s mentorship program. I used it to help mentor software engineers who are looking to get started with React. The project demonstrates examples of more advanced React concepts such as server-side rendering and performance optimization.
+
 
 ## Getting Started
 
